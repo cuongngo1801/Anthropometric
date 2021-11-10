@@ -1,0 +1,2 @@
+*.weights filter=lfs diff=lfs merge=lfs -text
+/home/ngocuong/Desktop/python/Detection/config/yolov4-custom_last.weights filter=lfs diff=lfs merge=lfs -text
